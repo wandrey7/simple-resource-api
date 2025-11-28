@@ -1,4 +1,4 @@
-* IMPORTANTE: Não inicie este desafio sem autorização. Entre em contato via email ou whatsapp:
+* IMPORTANTE: Não inicie este desafio sem autorização. O desafio só poderá ser iniciado no dia e horário agendado via Google Meet. Entre em contato via email ou whatsapp:
   - administrativo@infinixassessoria.com.br
   - (21) 99515-2411
 
