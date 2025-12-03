@@ -28,9 +28,9 @@ SECRET_KEY = os.environ.get("DJANGO_SECRET_KEY")
 sys.path.insert(0, str(BASE_DIR.parent))
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = bool(os.environ.get("DEBUG", default=0))
+DEBUG = bool(int(os.environ.get("DJANGO_DEBUG")))
 
-ALLOWED_HOSTS = os.environ.get("DJANGO_ALLOWED_HOSTS","127.0.0.1").split(",")
+ALLOWED_HOSTS = os.environ.get("DJANGO_ALLOWED_HOSTS").split(",")
 
 
 # Application definition
