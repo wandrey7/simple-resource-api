@@ -36,6 +36,7 @@ ALLOWED_HOSTS = []
 # Application definition
 
 INSTALLED_APPS = [
+    'drf_yasg',
     'api.apps.ApiConfig',
     'rest_framework',
     'django.contrib.admin',
